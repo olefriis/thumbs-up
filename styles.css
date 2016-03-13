@@ -1,0 +1,40 @@
+body {
+  width: 100%;
+  margin: 0;
+  background-color: black;
+  color: white;
+}
+
+table {
+  width: 100%;
+  height: 200%;
+  border-collapse: collapse;
+  font-size: x-large;
+}
+
+.icon {
+  margin: auto;
+  zoom: 1500%;
+  text-align: center;
+}
+
+tr #green {
+  background-color: green;
+}
+
+tr #yellow {
+  background-color: yellow;
+}
+
+tr #red {
+  background-color: red;
+}
+
+#results {
+  text-align: center;
+}
+
+#reset {
+  margin: auto;
+  width: 100px;
+}
